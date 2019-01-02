@@ -1,0 +1,1 @@
+{:deps {bar/baz {:local/root "../bar/baz"}}}

@@ -1,0 +1,1 @@
+{:deps {bar/bat {:local/root "../bat"}}}
